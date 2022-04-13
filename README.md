@@ -5,9 +5,13 @@
 
 ## Images
 
-<img src=".././assets/I-1.jpeg" alt="goal_app_img">
-<img src=".././assets/I-2.jpeg" alt="goal_app_img">
-<img src=".././assets/I-3.jpeg" alt="goal_app_img">
+<img src="./assets/I-1.jpeg" alt="goal_app_img">
+
+
+<img src="./assets/I-2.jpeg" alt="goal_app_img">
+
+
+<img src="./assets/I-3.jpeg" alt="goal_app_img">
 
 
 
